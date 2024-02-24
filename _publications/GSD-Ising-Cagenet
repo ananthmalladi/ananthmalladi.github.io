@@ -1,11 +1,20 @@
 ---
-title: "G"
+title: "Ground State Degeneracy of the Ising Cagenet Model"
 collection: publications
 permalink: /publication/GSD-Ising-Cagenet
 excerpt: 'We develop the operator algebra formalism, and apply it to compute the ground state degeneracy of the Ising cagenet model.'
 date: 2023-02-13
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.085123'
-citation: ''
+# citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+X. Ma, **A. Malladi**, Z. Wang, Z. Wang, X. Chen.
+
+### Abstract
+
+The Ising cage-net model, first proposed by Prem et al. [Phys. Rev. X 9, 021010 (2019)], is a representative type I fracton model with 
+nontrivial non-Abelian features. In this paper, we calculate the ground state degeneracy of this model and find that, even though it follows a 
+similar coupled layer structure as the X-cube model, the Ising cage-net model cannot be “foliated” in the same sense as X-cube as defined in 
+Shirley et al. [Phys. Rev. X 8, 031051 (2018)]. A more generalized notion of “foliation” is hence needed to understand the renormalization group 
+transformation of the Ising cage-net model. The calculation is done using an operator algebra approach that we develop in this paper, and we demonstrate
+its validity through a series of examples.
