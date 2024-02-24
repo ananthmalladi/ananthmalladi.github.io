@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About
+=======
 
-I am Ananth Venkatesh Malladi, a theoretical physics graduate student at the University of California, Santa Barbara. I grew up in Vermont, and obtained my B.S. in Physics from Caltech in 2022. My current research focuses on using insights from condensed matter in particle phenomenology. 
+I am Ananth Venkatesh Malladi, a theoretical physics graduate student at the University of California, Santa Barbara. I grew up in Vermont, and obtained my B.S. in Physics from Caltech in 2022. My current research focuses on using insights from condensed matter in particle phenomenology.
 
 Research Summary
 ===========
