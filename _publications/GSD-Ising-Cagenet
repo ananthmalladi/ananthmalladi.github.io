@@ -1,11 +1,12 @@
 ---
 title: "Ground State Degeneracy of the Ising Cagenet Model"
 collection: publications
-permalink: /publication/GSD-Ising-Cagenet
-excerpt: 'We develop the operator algebra formalism, and apply it to compute the ground state degeneracy of the Ising cagenet model.'
+permalink: 
+excerpt: 
 date: 2023-02-13
+venue: 'Phys. Rev. B'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.085123'
-# citation: ''
+#citation: ''
 ---
 
 X. Ma, **A. Malladi**, Z. Wang, Z. Wang, X. Chen.
