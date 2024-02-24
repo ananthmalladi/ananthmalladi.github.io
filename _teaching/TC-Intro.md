@@ -12,4 +12,4 @@ date: December, 2023
 
 {% include base_path %}
 
-[Notes](http://ananthmalladi.github.io/files/An Introduction to the Toric Code.pdf){:target="_blank"}
+[Notes](http://ananthmalladi.github.io/files/TC_Intro.pdf){:target="_blank"}
