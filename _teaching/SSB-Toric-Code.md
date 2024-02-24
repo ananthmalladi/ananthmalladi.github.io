@@ -11,4 +11,4 @@ location:
 
 {% include base_path}
 
-[Notes](http://ananthmalladi.github.io/files/Spontaneous Symmetry Breaking in the Toric Code.pdf){:target="_blank"}
+[Notes](http://ananthmalladi.github.io/files/SSB_TC.pdf){:target="_blank"}
