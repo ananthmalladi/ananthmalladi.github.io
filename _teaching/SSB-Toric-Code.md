@@ -9,6 +9,6 @@ date: Jan. 2024
 location: 
 ---
 
-{% include base_path}
+{% include base_path %}
 
 [Notes](http://ananthmalladi.github.io/files/SSB_TC.pdf){:target="_blank"}
